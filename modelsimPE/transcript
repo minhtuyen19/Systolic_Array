@@ -1,0 +1,33 @@
+# Compile of PEWS.v failed with 1 errors.
+# Compile of PEWS.v failed with 1 errors.
+# Compile of PEWS.v failed with 1 errors.
+# Compile of PEWS.v failed with 1 errors.
+# Compile of PEWS.v failed with 1 errors.
+# Compile of PEWS.v failed with 1 errors.
+# Compile of PEWS.v was successful.
+# Compile of PEWS.v was successful.
+# Compile of PEWS.v was successful.
+# Compile of PE_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.PE work.PE_tb
+# vsim -gui work.PE work.PE_tb 
+# Start time: 10:31:55 on Nov 27,2023
+# ** License Issue: License request for alteramtivlog feature failed
+# ** License Issue: No such feature exists. (D:\ASSET\NAM4HK2\DE10_PRO\Tool_De10_pro\LR-124030_License.dat)
+# ** License Issue: No such feature exists. (D:\ASSET\NAM4HK2\DE10_PRO\Tool_De10_pro\LR-124030_License.dat)
+# ** License Issue: Cannot find license file. (C:\flexlm\license.dat)
+# ** Error: Failure to obtain a Verilog simulation license. Unable to checkout any of these license features: 'alteramtivsim' or 'alteramtivlog'.
+# Error loading design
+# End time: 10:31:56 on Nov 27,2023, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+vsim -gui work.PE_tb
+# vsim -gui work.PE_tb 
+# Start time: 10:32:34 on Nov 27,2023
+# ** License Issue: License request for alteramtivlog feature failed
+# ** License Issue: No such feature exists. (D:\ASSET\NAM4HK2\DE10_PRO\Tool_De10_pro\LR-124030_License.dat)
+# ** License Issue: No such feature exists. (D:\ASSET\NAM4HK2\DE10_PRO\Tool_De10_pro\LR-124030_License.dat)
+# ** License Issue: Cannot find license file. (C:\flexlm\license.dat)
+# ** Error: Failure to obtain a Verilog simulation license. Unable to checkout any of these license features: 'alteramtivsim' or 'alteramtivlog'.
+# Error loading design
+# End time: 10:32:34 on Nov 27,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0

@@ -1,0 +1,20 @@
+E:/RESEARCH_AVANCEMENT/Design_Architect/PEWS/modelsimPE/PE_tb.v {1 {vlog -work work -stats=none E:/RESEARCH_AVANCEMENT/Design_Architect/PEWS/modelsimPE/PE_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module PE_tb
+
+Top level modules:
+	PE_tb
+
+} {} {}} E:/RESEARCH_AVANCEMENT/Design_Architect/PEWS/modelsimPE/PEWS.v {1 {vlog -work work -stats=none E:/RESEARCH_AVANCEMENT/Design_Architect/PEWS/modelsimPE/PEWS.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module PE_tb
+
+Top level modules:
+	PE_tb
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module PE
+
+Top level modules:
+	PE
+
+} {} {}}
